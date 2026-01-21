@@ -1,0 +1,12 @@
+4
+6
+node_0
+node_1
+node_2
+node_3
+node_0 node_1 1
+node_0 node_2 100
+node_0 node_3 100
+node_1 node_2 1
+node_1 node_3 1
+node_2 node_3 100

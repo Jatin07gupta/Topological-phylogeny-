@@ -1,0 +1,52 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.so
+*.a
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and temporary files
+*.log
+*.json
+*.tmp
+
+# Debug/intermediate test files
+data/*_algorithm2_test.txt
+data/*_mlvmst_test.txt
+data/*_mlvmst_adj.txt
+data/*_boruvka_test.txt
+data/*_clnj.txt
+data/*_clnj_*.txt
+data/*_verify.txt
+data/*_debug.txt
+
+# Large datasets (uncomment to exclude)
+# data/birds_species_test.txt
+# data/snakes_species_test.txt
+# data/campanulales_species_test.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary output files
+cpp_output.txt
+cpp_result.txt
+python_output.txt
+python_result.txt
+comparison_results.txt

@@ -1,0 +1,17 @@
+5
+10
+node_0
+node_1
+node_2
+node_3
+node_4
+node_0 node_1 1
+node_0 node_2 100
+node_0 node_3 100
+node_0 node_4 100
+node_1 node_2 1
+node_1 node_3 100
+node_1 node_4 100
+node_2 node_3 1
+node_2 node_4 100
+node_3 node_4 1
